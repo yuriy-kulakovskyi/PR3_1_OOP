@@ -1,0 +1,20 @@
+# ninja log v6
+1	469	1744083181180953450	build.ninja	2ad597b7a63d8215
+1	489	1744083125114847252	CMakeFiles/PR3_1.dir/main.cpp.o	85ebea4eaece9bcb
+489	528	1744083125602359641	PR3_1	d2fc86fc8467244a
+1	485	1744083125114405692	CMakeFiles/PR3_1.dir/classes/RightAngled.cpp.o	f1acdd4c0b13be41
+1	488	1744083125114685261	CMakeFiles/PR3_1.dir/classes/Triangle.cpp.o	513730832d51a20e
+7	647	1744083199728163745	CMakeFiles/PR3_1_tests.dir/classes/Triangle.cpp.o	ac499064148287a6
+6	651	1744083199727772765	CMakeFiles/PR3_1_tests.dir/classes/RightAngled.cpp.o	9e897960935cc127
+6	768	1744083199727310623	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	e0c487f2071a7eef
+7	835	1744083199728319611	CMakeFiles/PR3_1_tests.dir/tests/tests.cpp.o	cb64564f2ada59b3
+647	1204	1744083200368676892	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	53c05f7f7872626a
+5	1212	1744083199726776276	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	4af9cbf9be7c41d4
+5	1806	1744083199726397838	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	526bdf731d99082c
+1806	1870	1744083201527353595	lib/libgtest.a	b51b69e6de22023b
+1870	1890	1744083201591557773	lib/libgtest_main.a	ddd85a377c936fa9
+1870	1895	1744083201591347534	lib/libgmock.a	c8c98fe986cb389b
+1895	1913	1744083201615900398	lib/libgmock_main.a	c7b38932d055d06e
+1890	2380	1744083202100767802	PR3_1_tests	bd840f32094dc1b7
+1890	2380	1744083202100767802	PR3_1_tests[1]_tests.cmake	bd840f32094dc1b7
+1890	2380	1744083202100767802	/Users/yura_kulakovskyi/Documents/C++/OOP/PR3/PR3_1/cmake-build-debug/PR3_1_tests[1]_tests.cmake	bd840f32094dc1b7
